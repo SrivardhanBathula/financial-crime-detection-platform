@@ -3,3 +3,4 @@
 - [2024-10-01] chore: update XGBoost hyperparameters for production
 - [2024-10-02] test: add unit tests for fraud detector model
 - [2024-10-02] chore: update XGBoost hyperparameters for production
+- [2024-10-03] feat: add merchant category risk weighting
