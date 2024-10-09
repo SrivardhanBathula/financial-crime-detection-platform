@@ -9,3 +9,4 @@
 - [2024-10-05] chore: update XGBoost hyperparameters for production
 - [2024-10-07] fix: handle duplicate transaction IDs in pipeline
 - [2024-10-08] docs: update LangGraph investigation workflow docs
+- [2024-10-09] fix: handle duplicate transaction IDs in pipeline
