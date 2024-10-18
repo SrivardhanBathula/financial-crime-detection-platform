@@ -14,3 +14,4 @@
 - [2024-10-15] refactor: improve GNN fraud ring detection accuracy
 - [2024-10-17] fix: RAG retriever timeout handling improvement
 - [2024-10-17] fix: handle duplicate transaction IDs in pipeline
+- [2024-10-18] refactor: optimize Kafka consumer batch processing
