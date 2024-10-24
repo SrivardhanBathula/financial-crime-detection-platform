@@ -17,3 +17,4 @@
 - [2024-10-18] refactor: optimize Kafka consumer batch processing
 - [2024-10-21] docs: update LangGraph investigation workflow docs
 - [2024-10-22] test: add unit tests for fraud detector model
+- [2024-10-24] test: add API integration tests for batch scoring
