@@ -19,3 +19,4 @@
 - [2024-10-22] test: add unit tests for fraud detector model
 - [2024-10-24] test: add API integration tests for batch scoring
 - [2024-10-24] refactor: improve SHAP explanation caching
+- [2024-10-27] feat: add velocity feature for cross-border transactions
