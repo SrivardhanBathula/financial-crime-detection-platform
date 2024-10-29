@@ -19,3 +19,4 @@
 - [2024-10-22] test: add unit tests for fraud detector model
 - [2024-10-23] fix: handle duplicate transaction IDs in pipeline
 - [2024-10-25] refactor: optimize Kafka consumer batch processing
+- [2024-10-29] refactor: improve SHAP explanation caching
