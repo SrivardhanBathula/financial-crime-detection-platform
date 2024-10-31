@@ -22,3 +22,4 @@
 - [2024-10-27] feat: add velocity feature for cross-border transactions
 - [2024-10-27] refactor: modularize FastAPI route handlers
 - [2024-10-28] docs: update LangGraph investigation workflow docs
+- [2024-10-31] chore: update Dockerfile base image to python 3.11
