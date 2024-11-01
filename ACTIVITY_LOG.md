@@ -24,3 +24,4 @@
 - [2024-10-28] docs: update LangGraph investigation workflow docs
 - [2024-10-31] chore: update Dockerfile base image to python 3.11
 - [2024-10-31] test: add API integration tests for batch scoring
+- [2024-11-01] refactor: optimize PySpark feature engineering job
