@@ -20,3 +20,4 @@
 - [2024-10-23] fix: handle duplicate transaction IDs in pipeline
 - [2024-10-25] refactor: optimize Kafka consumer batch processing
 - [2024-10-29] refactor: improve SHAP explanation caching
+- [2024-11-01] fix: correct amount z-score calculation edge case
