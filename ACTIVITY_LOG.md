@@ -21,3 +21,4 @@
 - [2024-10-25] refactor: optimize Kafka consumer batch processing
 - [2024-10-29] refactor: improve SHAP explanation caching
 - [2024-11-01] fix: correct amount z-score calculation edge case
+- [2024-11-01] chore: update Dockerfile base image to python 3.11
