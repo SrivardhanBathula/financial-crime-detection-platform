@@ -26,3 +26,4 @@
 - [2024-10-31] test: add API integration tests for batch scoring
 - [2024-11-01] refactor: optimize PySpark feature engineering job
 - [2024-11-04] fix: correct amount z-score calculation edge case
+- [2024-11-05] feat: add velocity feature for cross-border transactions
