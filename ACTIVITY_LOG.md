@@ -23,3 +23,4 @@
 - [2024-11-01] fix: correct amount z-score calculation edge case
 - [2024-11-01] chore: update Dockerfile base image to python 3.11
 - [2024-11-04] refactor: optimize PySpark feature engineering job
+- [2024-11-05] fix: correct Kafka consumer offset commit logic
