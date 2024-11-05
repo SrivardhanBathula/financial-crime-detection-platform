@@ -27,3 +27,4 @@
 - [2024-11-01] refactor: optimize PySpark feature engineering job
 - [2024-11-04] fix: correct amount z-score calculation edge case
 - [2024-11-05] feat: add velocity feature for cross-border transactions
+- [2024-11-05] fix: RAG retriever timeout handling improvement
