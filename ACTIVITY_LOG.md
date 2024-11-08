@@ -30,3 +30,4 @@
 - [2024-11-05] fix: RAG retriever timeout handling improvement
 - [2024-11-07] fix: correct amount z-score calculation edge case
 - [2024-11-07] fix: RAG retriever timeout handling improvement
+- [2024-11-08] docs: add AML compliance notes to risk scoring
