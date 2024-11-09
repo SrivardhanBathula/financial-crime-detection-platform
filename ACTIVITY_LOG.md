@@ -25,3 +25,4 @@
 - [2024-11-04] refactor: optimize PySpark feature engineering job
 - [2024-11-05] fix: correct Kafka consumer offset commit logic
 - [2024-11-07] fix: resolve false positive spike in risk scoring
+- [2024-11-09] fix: RAG retriever timeout handling improvement
