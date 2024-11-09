@@ -26,3 +26,4 @@
 - [2024-11-05] fix: correct Kafka consumer offset commit logic
 - [2024-11-07] fix: resolve false positive spike in risk scoring
 - [2024-11-09] fix: RAG retriever timeout handling improvement
+- [2024-11-09] refactor: improve GNN fraud ring detection accuracy
