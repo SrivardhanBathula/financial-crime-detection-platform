@@ -28,3 +28,4 @@
 - [2024-11-09] fix: RAG retriever timeout handling improvement
 - [2024-11-09] refactor: improve GNN fraud ring detection accuracy
 - [2024-11-11] fix: RAG retriever timeout handling improvement
+- [2024-11-12] docs: add AML compliance notes to risk scoring
