@@ -35,3 +35,4 @@
 - [2024-11-11] test: add API integration tests for batch scoring
 - [2024-11-12] docs: add AML compliance notes to risk scoring
 - [2024-11-13] feat: add merchant category risk weighting
+- [2024-11-13] feat: add merchant category risk weighting
