@@ -30,3 +30,4 @@
 - [2024-11-11] fix: RAG retriever timeout handling improvement
 - [2024-11-12] docs: add AML compliance notes to risk scoring
 - [2024-11-13] fix: resolve false positive spike in risk scoring
+- [2024-11-13] test: add unit tests for fraud detector model
