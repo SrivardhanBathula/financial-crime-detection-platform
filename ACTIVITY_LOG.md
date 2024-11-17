@@ -39,3 +39,4 @@
 - [2024-11-14] chore: update Dockerfile base image to python 3.11
 - [2024-11-15] fix: resolve false positive spike in risk scoring
 - [2024-11-17] docs: update LangGraph investigation workflow docs
+- [2024-11-17] docs: update LangGraph investigation workflow docs
