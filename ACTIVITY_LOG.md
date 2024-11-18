@@ -40,3 +40,4 @@
 - [2024-11-15] fix: resolve false positive spike in risk scoring
 - [2024-11-17] docs: update LangGraph investigation workflow docs
 - [2024-11-17] docs: update LangGraph investigation workflow docs
+- [2024-11-18] feat: add merchant category risk weighting
