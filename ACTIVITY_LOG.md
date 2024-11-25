@@ -43,3 +43,4 @@
 - [2024-11-18] feat: add merchant category risk weighting
 - [2024-11-19] refactor: optimize PySpark feature engineering job
 - [2024-11-20] refactor: improve SHAP explanation caching
+- [2024-11-25] refactor: optimize PySpark feature engineering job
