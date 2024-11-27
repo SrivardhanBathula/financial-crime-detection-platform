@@ -46,3 +46,4 @@
 - [2024-11-25] refactor: optimize PySpark feature engineering job
 - [2024-11-26] docs: update LangGraph investigation workflow docs
 - [2024-11-26] refactor: improve SHAP explanation caching
+- [2024-11-27] refactor: improve SHAP explanation caching
