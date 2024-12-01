@@ -41,3 +41,4 @@
 - [2024-11-25] refactor: optimize PySpark feature engineering job
 - [2024-11-26] refactor: improve SHAP explanation caching
 - [2024-11-29] test: add API integration tests for batch scoring
+- [2024-12-01] docs: update LangGraph investigation workflow docs
