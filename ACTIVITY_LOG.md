@@ -44,3 +44,4 @@
 - [2024-12-01] docs: update LangGraph investigation workflow docs
 - [2024-12-01] refactor: improve SHAP explanation caching
 - [2024-12-02] refactor: improve SHAP explanation caching
+- [2024-12-05] test: add unit tests for fraud detector model
