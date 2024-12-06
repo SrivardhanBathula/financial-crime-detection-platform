@@ -45,3 +45,4 @@
 - [2024-12-01] refactor: improve SHAP explanation caching
 - [2024-12-02] refactor: improve SHAP explanation caching
 - [2024-12-05] test: add unit tests for fraud detector model
+- [2024-12-06] feat: add merchant category risk weighting
