@@ -51,3 +51,4 @@
 - [2024-12-03] refactor: improve SHAP explanation caching
 - [2024-12-05] docs: add AML compliance notes to risk scoring
 - [2024-12-05] refactor: optimize PySpark feature engineering job
+- [2024-12-09] fix: correct amount z-score calculation edge case
