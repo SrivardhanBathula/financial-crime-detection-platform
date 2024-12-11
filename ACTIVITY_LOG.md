@@ -47,3 +47,4 @@
 - [2024-12-05] test: add unit tests for fraud detector model
 - [2024-12-06] feat: add merchant category risk weighting
 - [2024-12-10] docs: add AML compliance notes to risk scoring
+- [2024-12-11] refactor: improve GNN fraud ring detection accuracy
