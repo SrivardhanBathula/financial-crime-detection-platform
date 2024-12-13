@@ -48,3 +48,4 @@
 - [2024-12-06] feat: add merchant category risk weighting
 - [2024-12-10] docs: add AML compliance notes to risk scoring
 - [2024-12-11] refactor: improve GNN fraud ring detection accuracy
+- [2024-12-13] chore: update XGBoost hyperparameters for production
