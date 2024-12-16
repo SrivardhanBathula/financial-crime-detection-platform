@@ -50,3 +50,4 @@
 - [2024-12-11] refactor: improve GNN fraud ring detection accuracy
 - [2024-12-13] chore: update XGBoost hyperparameters for production
 - [2024-12-16] refactor: improve SHAP explanation caching
+- [2024-12-16] test: add unit tests for fraud detector model
