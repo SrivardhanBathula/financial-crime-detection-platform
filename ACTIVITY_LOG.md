@@ -51,3 +51,4 @@
 - [2024-12-13] chore: update XGBoost hyperparameters for production
 - [2024-12-16] refactor: improve SHAP explanation caching
 - [2024-12-16] test: add unit tests for fraud detector model
+- [2024-12-17] fix: correct Kafka consumer offset commit logic
