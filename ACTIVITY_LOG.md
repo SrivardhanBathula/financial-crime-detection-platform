@@ -55,3 +55,4 @@
 - [2024-12-10] docs: add AML compliance notes to risk scoring
 - [2024-12-13] refactor: modularize FastAPI route handlers
 - [2024-12-16] refactor: optimize Kafka consumer batch processing
+- [2024-12-17] refactor: improve SHAP explanation caching
