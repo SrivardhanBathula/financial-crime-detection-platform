@@ -58,3 +58,4 @@
 - [2024-12-17] refactor: improve SHAP explanation caching
 - [2024-12-19] chore: bump MLflow tracking server version
 - [2024-12-20] fix: handle duplicate transaction IDs in pipeline
+- [2024-12-24] refactor: improve SHAP explanation caching
