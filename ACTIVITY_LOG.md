@@ -60,3 +60,4 @@
 - [2024-12-20] fix: handle duplicate transaction IDs in pipeline
 - [2024-12-24] refactor: improve SHAP explanation caching
 - [2024-12-25] feat: add velocity feature for cross-border transactions
+- [2024-12-25] refactor: improve SHAP explanation caching
