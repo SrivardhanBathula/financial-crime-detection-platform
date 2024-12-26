@@ -55,3 +55,4 @@
 - [2024-12-19] fix: correct Kafka consumer offset commit logic
 - [2024-12-20] docs: update LangGraph investigation workflow docs
 - [2024-12-25] refactor: improve GNN fraud ring detection accuracy
+- [2024-12-26] refactor: improve GNN fraud ring detection accuracy
