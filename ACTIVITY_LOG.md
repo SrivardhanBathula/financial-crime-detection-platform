@@ -61,3 +61,4 @@
 - [2024-12-24] refactor: improve SHAP explanation caching
 - [2024-12-25] feat: add velocity feature for cross-border transactions
 - [2024-12-25] refactor: improve SHAP explanation caching
+- [2024-12-26] chore: update Dockerfile base image to python 3.11
