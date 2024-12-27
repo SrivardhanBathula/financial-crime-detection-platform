@@ -63,3 +63,4 @@
 - [2024-12-25] refactor: improve SHAP explanation caching
 - [2024-12-26] chore: update Dockerfile base image to python 3.11
 - [2024-12-27] fix: handle duplicate transaction IDs in pipeline
+- [2024-12-27] fix: correct Kafka consumer offset commit logic
