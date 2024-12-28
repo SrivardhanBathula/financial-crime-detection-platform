@@ -57,3 +57,4 @@
 - [2024-12-25] refactor: improve GNN fraud ring detection accuracy
 - [2024-12-26] refactor: improve GNN fraud ring detection accuracy
 - [2024-12-26] refactor: optimize Kafka consumer batch processing
+- [2024-12-28] fix: handle duplicate transaction IDs in pipeline
