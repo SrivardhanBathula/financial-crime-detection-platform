@@ -59,3 +59,4 @@
 - [2024-12-26] refactor: optimize Kafka consumer batch processing
 - [2024-12-28] fix: handle duplicate transaction IDs in pipeline
 - [2024-12-30] fix: Kubernetes pod memory limit adjustment
+- [2024-12-30] test: add unit tests for fraud detector model
