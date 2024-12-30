@@ -65,3 +65,4 @@
 - [2024-12-27] fix: handle duplicate transaction IDs in pipeline
 - [2024-12-27] fix: correct Kafka consumer offset commit logic
 - [2024-12-30] test: add unit tests for fraud detector model
+- [2024-12-30] fix: correct Kafka consumer offset commit logic
