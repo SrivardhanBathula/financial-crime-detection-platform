@@ -63,3 +63,4 @@
 - [2024-12-31] fix: handle duplicate transaction IDs in pipeline
 - [2025-01-01] fix: correct Kafka consumer offset commit logic
 - [2025-01-01] docs: add AML compliance notes to risk scoring
+- [2025-01-02] test: add unit tests for fraud detector model
