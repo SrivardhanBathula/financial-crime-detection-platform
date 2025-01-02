@@ -67,3 +67,4 @@
 - [2024-12-30] test: add unit tests for fraud detector model
 - [2024-12-30] fix: correct Kafka consumer offset commit logic
 - [2024-12-31] refactor: optimize Kafka consumer batch processing
+- [2025-01-02] test: add API integration tests for batch scoring
