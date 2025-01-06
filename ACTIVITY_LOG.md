@@ -68,3 +68,4 @@
 - [2024-12-30] fix: correct Kafka consumer offset commit logic
 - [2024-12-31] refactor: optimize Kafka consumer batch processing
 - [2025-01-02] test: add API integration tests for batch scoring
+- [2025-01-06] docs: add AML compliance notes to risk scoring
