@@ -68,3 +68,4 @@
 - [2025-01-03] refactor: optimize Kafka consumer batch processing
 - [2025-01-06] test: add unit tests for fraud detector model
 - [2025-01-06] fix: correct Kafka consumer offset commit logic
+- [2025-01-07] docs: add AML compliance notes to risk scoring
