@@ -69,3 +69,4 @@
 - [2024-12-31] refactor: optimize Kafka consumer batch processing
 - [2025-01-02] test: add API integration tests for batch scoring
 - [2025-01-06] docs: add AML compliance notes to risk scoring
+- [2025-01-08] feat: add velocity feature for cross-border transactions
