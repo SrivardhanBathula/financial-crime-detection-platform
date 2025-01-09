@@ -70,3 +70,4 @@
 - [2025-01-02] test: add API integration tests for batch scoring
 - [2025-01-06] docs: add AML compliance notes to risk scoring
 - [2025-01-08] feat: add velocity feature for cross-border transactions
+- [2025-01-09] fix: resolve false positive spike in risk scoring
