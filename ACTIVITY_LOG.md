@@ -71,3 +71,4 @@
 - [2025-01-07] docs: add AML compliance notes to risk scoring
 - [2025-01-09] feat: add velocity feature for cross-border transactions
 - [2025-01-10] fix: resolve false positive spike in risk scoring
+- [2025-01-11] fix: correct amount z-score calculation edge case
