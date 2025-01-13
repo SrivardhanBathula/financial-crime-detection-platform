@@ -73,3 +73,4 @@
 - [2025-01-09] fix: resolve false positive spike in risk scoring
 - [2025-01-10] fix: correct amount z-score calculation edge case
 - [2025-01-10] fix: correct Kafka consumer offset commit logic
+- [2025-01-13] docs: update LangGraph investigation workflow docs
