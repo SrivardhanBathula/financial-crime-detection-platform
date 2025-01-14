@@ -74,3 +74,4 @@
 - [2025-01-10] fix: correct amount z-score calculation edge case
 - [2025-01-10] fix: correct Kafka consumer offset commit logic
 - [2025-01-13] docs: update LangGraph investigation workflow docs
+- [2025-01-14] feat: add merchant category risk weighting
