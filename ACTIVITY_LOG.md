@@ -72,3 +72,4 @@
 - [2025-01-09] feat: add velocity feature for cross-border transactions
 - [2025-01-10] fix: resolve false positive spike in risk scoring
 - [2025-01-11] fix: correct amount z-score calculation edge case
+- [2025-01-14] feat: add merchant category risk weighting
