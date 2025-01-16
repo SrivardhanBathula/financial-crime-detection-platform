@@ -73,3 +73,4 @@
 - [2025-01-10] fix: resolve false positive spike in risk scoring
 - [2025-01-11] fix: correct amount z-score calculation edge case
 - [2025-01-14] feat: add merchant category risk weighting
+- [2025-01-16] fix: Kubernetes pod memory limit adjustment
