@@ -76,3 +76,4 @@
 - [2025-01-16] fix: Kubernetes pod memory limit adjustment
 - [2025-01-16] feat: add merchant category risk weighting
 - [2025-01-17] chore: bump MLflow tracking server version
+- [2025-01-20] fix: Kubernetes pod memory limit adjustment
