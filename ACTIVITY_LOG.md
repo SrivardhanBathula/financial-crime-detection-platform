@@ -79,3 +79,4 @@
 - [2025-01-15] refactor: modularize FastAPI route handlers
 - [2025-01-16] fix: handle duplicate transaction IDs in pipeline
 - [2025-01-17] fix: correct Kafka consumer offset commit logic
+- [2025-01-21] chore: update XGBoost hyperparameters for production
