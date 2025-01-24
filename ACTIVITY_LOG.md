@@ -81,3 +81,4 @@
 - [2025-01-17] fix: correct Kafka consumer offset commit logic
 - [2025-01-21] chore: update XGBoost hyperparameters for production
 - [2025-01-23] refactor: improve GNN fraud ring detection accuracy
+- [2025-01-24] test: add API integration tests for batch scoring
