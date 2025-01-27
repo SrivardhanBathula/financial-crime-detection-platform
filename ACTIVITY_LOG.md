@@ -79,3 +79,4 @@
 - [2025-01-20] fix: Kubernetes pod memory limit adjustment
 - [2025-01-22] fix: handle duplicate transaction IDs in pipeline
 - [2025-01-23] chore: update XGBoost hyperparameters for production
+- [2025-01-27] docs: update LangGraph investigation workflow docs
