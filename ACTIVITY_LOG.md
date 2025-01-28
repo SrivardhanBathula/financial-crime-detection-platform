@@ -80,3 +80,4 @@
 - [2025-01-22] fix: handle duplicate transaction IDs in pipeline
 - [2025-01-23] chore: update XGBoost hyperparameters for production
 - [2025-01-27] docs: update LangGraph investigation workflow docs
+- [2025-01-28] docs: add AML compliance notes to risk scoring
