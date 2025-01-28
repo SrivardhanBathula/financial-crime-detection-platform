@@ -83,3 +83,4 @@
 - [2025-01-23] refactor: improve GNN fraud ring detection accuracy
 - [2025-01-24] test: add API integration tests for batch scoring
 - [2025-01-25] test: add unit tests for fraud detector model
+- [2025-01-28] refactor: optimize Kafka consumer batch processing
