@@ -83,3 +83,4 @@
 - [2025-01-28] docs: add AML compliance notes to risk scoring
 - [2025-01-29] test: add unit tests for fraud detector model
 - [2025-01-30] fix: correct Kafka consumer offset commit logic
+- [2025-01-31] test: add API integration tests for batch scoring
