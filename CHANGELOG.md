@@ -61,3 +61,4 @@
 - [2024-12-01] feat: add merchant category risk weighting
 - [2024-12-05] refactor: optimize PySpark feature engineering job
 - [2024-12-13] test: add unit tests for fraud detector model
+- [2024-12-18] fix: correct risk tier threshold boundaries
