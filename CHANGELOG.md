@@ -16,3 +16,4 @@
 - [2024-10-04] fix: RAG retriever timeout handling improvement
 - [2024-10-04] refactor: improve SHAP explanation caching
 - [2024-10-07] fix: resolve Evidently drift detection config issue
+- [2024-10-08] test: add unit tests for fraud detector model
