@@ -81,3 +81,4 @@
 - [2025-01-06] chore: update XGBoost hyperparameters for production
 - [2025-01-06] chore: update XGBoost hyperparameters for production
 - [2025-01-08] docs: update LangGraph investigation workflow docs
+- [2025-01-08] chore: optimize Docker image layer caching
