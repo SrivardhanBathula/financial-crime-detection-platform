@@ -124,3 +124,4 @@
 - [2025-05-12] fix: resolve false positive spike in risk scoring
 - [2025-05-15] docs: update LangGraph investigation workflow docs
 - [2025-05-16] fix: resolve Evidently drift detection config issue
+- [2025-05-16] fix: RAG retriever timeout handling improvement
