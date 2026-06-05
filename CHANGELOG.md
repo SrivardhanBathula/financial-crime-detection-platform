@@ -74,3 +74,4 @@
 - [2024-12-30] chore: update XGBoost hyperparameters for production
 - [2024-12-31] refactor: optimize PySpark feature engineering job
 - [2024-12-31] chore: update XGBoost hyperparameters for production
+- [2025-01-01] refactor: improve LangChain agent retry logic
