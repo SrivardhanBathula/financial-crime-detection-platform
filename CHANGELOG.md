@@ -99,3 +99,4 @@
 - [2025-02-14] refactor: optimize PySpark feature engineering job
 - [2025-02-17] fix: resolve Evidently drift detection config issue
 - [2025-02-19] test: add unit tests for fraud detector model
+- [2025-02-24] test: add API integration tests for batch scoring
