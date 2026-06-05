@@ -113,3 +113,4 @@
 - [2025-03-29] chore: update XGBoost hyperparameters for production
 - [2025-04-03] refactor: improve GNN fraud ring detection accuracy
 - [2025-04-04] fix: handle duplicate transaction IDs in pipeline
+- [2025-04-10] refactor: optimize PySpark feature engineering job
