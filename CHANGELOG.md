@@ -23,3 +23,4 @@
 - [2024-10-14] fix: resolve false positive spike in risk scoring
 - [2024-10-16] refactor: improve GNN fraud ring detection accuracy
 - [2024-10-17] fix: RAG retriever timeout handling improvement
+- [2024-10-17] fix: correct risk tier threshold boundaries
