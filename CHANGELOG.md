@@ -73,3 +73,4 @@
 - [2024-12-30] fix: Kubernetes pod memory limit adjustment
 - [2024-12-30] chore: update XGBoost hyperparameters for production
 - [2024-12-31] refactor: optimize PySpark feature engineering job
+- [2024-12-31] chore: update XGBoost hyperparameters for production
