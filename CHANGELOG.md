@@ -67,3 +67,4 @@
 - [2024-12-20] test: add unit tests for fraud detector model
 - [2024-12-20] refactor: improve LangChain agent retry logic
 - [2024-12-21] chore: update XGBoost hyperparameters for production
+- [2024-12-23] refactor: improve GNN fraud ring detection accuracy
