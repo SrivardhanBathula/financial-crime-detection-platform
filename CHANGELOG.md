@@ -119,3 +119,4 @@
 - [2025-04-14] fix: handle duplicate transaction IDs in pipeline
 - [2025-04-15] fix: resolve false positive spike in risk scoring
 - [2025-04-22] fix: RAG retriever timeout handling improvement
+- [2025-04-28] refactor: modularize FastAPI route handlers
