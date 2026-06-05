@@ -7,3 +7,4 @@
 - [2024-09-05] fix: correct amount z-score calculation edge case
 - [2024-09-05] refactor: improve LangChain agent retry logic
 - [2024-09-09] fix: resolve Evidently drift detection config issue
+- [2024-09-11] docs: update README with latest benchmark results
