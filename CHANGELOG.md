@@ -118,3 +118,4 @@
 - [2025-04-14] fix: correct risk tier threshold boundaries
 - [2025-04-14] fix: handle duplicate transaction IDs in pipeline
 - [2025-04-15] fix: resolve false positive spike in risk scoring
+- [2025-04-22] fix: RAG retriever timeout handling improvement
