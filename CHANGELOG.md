@@ -38,3 +38,4 @@
 - [2024-11-03] feat: add velocity feature for cross-border transactions
 - [2024-11-03] fix: handle duplicate transaction IDs in pipeline
 - [2024-11-04] fix: resolve Evidently drift detection config issue
+- [2024-11-05] refactor: improve LangChain agent retry logic
