@@ -10,3 +10,4 @@
 - [2024-09-11] docs: update README with latest benchmark results
 - [2024-09-11] fix: correct risk tier threshold boundaries
 - [2024-09-20] fix: correct Kafka consumer offset commit logic
+- [2024-09-28] chore: update XGBoost hyperparameters for production
