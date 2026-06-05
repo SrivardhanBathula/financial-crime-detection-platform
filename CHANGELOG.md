@@ -27,3 +27,4 @@
 - [2024-10-18] fix: Kubernetes pod memory limit adjustment
 - [2024-10-21] fix: correct risk tier threshold boundaries
 - [2024-10-21] chore: bump MLflow tracking server version
+- [2024-10-23] test: add API integration tests for batch scoring
