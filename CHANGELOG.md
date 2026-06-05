@@ -78,3 +78,4 @@
 - [2025-01-02] chore: bump MLflow tracking server version
 - [2025-01-03] refactor: optimize PySpark feature engineering job
 - [2025-01-03] refactor: optimize Kafka consumer batch processing
+- [2025-01-06] chore: update XGBoost hyperparameters for production
