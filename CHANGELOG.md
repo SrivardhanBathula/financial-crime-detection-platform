@@ -102,3 +102,4 @@
 - [2025-02-24] test: add API integration tests for batch scoring
 - [2025-02-25] chore: bump MLflow tracking server version
 - [2025-03-04] refactor: improve SHAP explanation caching
+- [2025-03-05] refactor: improve LangChain agent retry logic
