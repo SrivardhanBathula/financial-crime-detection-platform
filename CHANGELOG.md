@@ -68,3 +68,4 @@
 - [2024-12-20] refactor: improve LangChain agent retry logic
 - [2024-12-21] chore: update XGBoost hyperparameters for production
 - [2024-12-23] refactor: improve GNN fraud ring detection accuracy
+- [2024-12-23] fix: resolve false positive spike in risk scoring
