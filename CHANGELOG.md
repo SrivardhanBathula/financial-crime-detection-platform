@@ -18,3 +18,4 @@
 - [2024-10-07] fix: resolve Evidently drift detection config issue
 - [2024-10-08] test: add unit tests for fraud detector model
 - [2024-10-08] refactor: optimize Kafka consumer batch processing
+- [2024-10-11] fix: resolve false positive spike in risk scoring
