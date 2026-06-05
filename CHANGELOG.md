@@ -71,3 +71,4 @@
 - [2024-12-23] fix: resolve false positive spike in risk scoring
 - [2024-12-27] feat: add velocity feature for cross-border transactions
 - [2024-12-30] fix: Kubernetes pod memory limit adjustment
+- [2024-12-30] chore: update XGBoost hyperparameters for production
