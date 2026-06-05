@@ -111,3 +111,4 @@
 - [2025-03-27] chore: bump MLflow tracking server version
 - [2025-03-28] chore: update Dockerfile base image to python 3.11
 - [2025-03-29] chore: update XGBoost hyperparameters for production
+- [2025-04-03] refactor: improve GNN fraud ring detection accuracy
