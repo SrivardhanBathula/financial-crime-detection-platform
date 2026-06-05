@@ -31,3 +31,4 @@
 - [2024-10-24] chore: optimize Docker image layer caching
 - [2024-10-24] test: add API integration tests for batch scoring
 - [2024-10-25] fix: resolve Evidently drift detection config issue
+- [2024-10-28] test: add unit tests for fraud detector model
