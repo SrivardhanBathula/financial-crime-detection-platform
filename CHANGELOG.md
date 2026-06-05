@@ -107,3 +107,4 @@
 - [2025-03-11] chore: optimize Docker image layer caching
 - [2025-03-14] feat: add velocity feature for cross-border transactions
 - [2025-03-17] fix: handle duplicate transaction IDs in pipeline
+- [2025-03-21] refactor: improve GNN fraud ring detection accuracy
