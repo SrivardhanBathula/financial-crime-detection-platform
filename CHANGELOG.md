@@ -91,3 +91,4 @@
 - [2025-01-20] fix: resolve Evidently drift detection config issue
 - [2025-01-22] feat: add velocity feature for cross-border transactions
 - [2025-01-24] fix: correct Kafka consumer offset commit logic
+- [2025-01-27] docs: add AML compliance notes to risk scoring
