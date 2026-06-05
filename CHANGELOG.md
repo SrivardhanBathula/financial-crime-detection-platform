@@ -8,3 +8,4 @@
 - [2024-09-05] refactor: improve LangChain agent retry logic
 - [2024-09-09] fix: resolve Evidently drift detection config issue
 - [2024-09-11] docs: update README with latest benchmark results
+- [2024-09-11] fix: correct risk tier threshold boundaries
