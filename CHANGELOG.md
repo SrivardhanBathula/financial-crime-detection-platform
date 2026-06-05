@@ -17,3 +17,4 @@
 - [2024-10-04] refactor: improve SHAP explanation caching
 - [2024-10-07] fix: resolve Evidently drift detection config issue
 - [2024-10-08] test: add unit tests for fraud detector model
+- [2024-10-08] refactor: optimize Kafka consumer batch processing
