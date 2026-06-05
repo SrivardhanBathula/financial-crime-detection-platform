@@ -80,3 +80,4 @@
 - [2025-01-03] refactor: optimize Kafka consumer batch processing
 - [2025-01-06] chore: update XGBoost hyperparameters for production
 - [2025-01-06] chore: update XGBoost hyperparameters for production
+- [2025-01-08] docs: update LangGraph investigation workflow docs
