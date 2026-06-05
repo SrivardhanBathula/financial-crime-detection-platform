@@ -20,3 +20,4 @@
 - [2024-10-08] refactor: optimize Kafka consumer batch processing
 - [2024-10-11] fix: resolve false positive spike in risk scoring
 - [2024-10-14] chore: bump MLflow tracking server version
+- [2024-10-14] fix: resolve false positive spike in risk scoring
