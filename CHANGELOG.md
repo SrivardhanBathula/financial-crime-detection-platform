@@ -126,3 +126,4 @@
 - [2025-05-16] fix: resolve Evidently drift detection config issue
 - [2025-05-16] fix: RAG retriever timeout handling improvement
 - [2025-05-17] fix: correct Kafka consumer offset commit logic
+- [2025-05-22] refactor: optimize PySpark feature engineering job
