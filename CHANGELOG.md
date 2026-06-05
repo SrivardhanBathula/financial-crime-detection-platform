@@ -86,3 +86,4 @@
 - [2025-01-14] chore: bump MLflow tracking server version
 - [2025-01-14] fix: handle duplicate transaction IDs in pipeline
 - [2025-01-15] fix: correct risk tier threshold boundaries
+- [2025-01-16] refactor: modularize FastAPI route handlers
