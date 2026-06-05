@@ -47,3 +47,4 @@
 - [2024-11-13] chore: optimize Docker image layer caching
 - [2024-11-14] refactor: optimize Kafka consumer batch processing
 - [2024-11-14] refactor: optimize Kafka consumer batch processing
+- [2024-11-15] fix: correct risk tier threshold boundaries
