@@ -94,3 +94,4 @@
 - [2025-01-27] docs: add AML compliance notes to risk scoring
 - [2025-01-29] test: add unit tests for fraud detector model
 - [2025-01-31] docs: add AML compliance notes to risk scoring
+- [2025-01-31] refactor: improve GNN fraud ring detection accuracy
