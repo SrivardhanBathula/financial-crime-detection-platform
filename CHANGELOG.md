@@ -50,3 +50,4 @@
 - [2024-11-15] fix: correct risk tier threshold boundaries
 - [2024-11-16] docs: update README with latest benchmark results
 - [2024-11-19] refactor: modularize FastAPI route handlers
+- [2024-11-19] fix: correct amount z-score calculation edge case
