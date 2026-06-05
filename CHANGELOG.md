@@ -11,3 +11,4 @@
 - [2024-09-11] fix: correct risk tier threshold boundaries
 - [2024-09-20] fix: correct Kafka consumer offset commit logic
 - [2024-09-28] chore: update XGBoost hyperparameters for production
+- [2024-09-30] refactor: improve SHAP explanation caching
