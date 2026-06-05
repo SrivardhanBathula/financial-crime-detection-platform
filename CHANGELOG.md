@@ -48,3 +48,4 @@
 - [2024-11-14] refactor: optimize Kafka consumer batch processing
 - [2024-11-14] refactor: optimize Kafka consumer batch processing
 - [2024-11-15] fix: correct risk tier threshold boundaries
+- [2024-11-16] docs: update README with latest benchmark results
