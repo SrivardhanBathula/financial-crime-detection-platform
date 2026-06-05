@@ -83,3 +83,4 @@
 - [2025-01-08] docs: update LangGraph investigation workflow docs
 - [2025-01-08] chore: optimize Docker image layer caching
 - [2025-01-09] fix: correct amount z-score calculation edge case
+- [2025-01-14] chore: bump MLflow tracking server version
