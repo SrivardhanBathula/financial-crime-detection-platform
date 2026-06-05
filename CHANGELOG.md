@@ -77,3 +77,4 @@
 - [2025-01-01] refactor: improve LangChain agent retry logic
 - [2025-01-02] chore: bump MLflow tracking server version
 - [2025-01-03] refactor: optimize PySpark feature engineering job
+- [2025-01-03] refactor: optimize Kafka consumer batch processing
