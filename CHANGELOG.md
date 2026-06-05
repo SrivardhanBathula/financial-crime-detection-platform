@@ -88,3 +88,4 @@
 - [2025-01-15] fix: correct risk tier threshold boundaries
 - [2025-01-16] refactor: modularize FastAPI route handlers
 - [2025-01-20] test: add API integration tests for batch scoring
+- [2025-01-20] fix: resolve Evidently drift detection config issue
