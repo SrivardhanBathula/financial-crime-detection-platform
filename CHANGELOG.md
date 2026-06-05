@@ -59,3 +59,4 @@
 - [2024-11-28] feat: add velocity feature for cross-border transactions
 - [2024-11-29] fix: handle duplicate transaction IDs in pipeline
 - [2024-12-01] feat: add merchant category risk weighting
+- [2024-12-05] refactor: optimize PySpark feature engineering job
