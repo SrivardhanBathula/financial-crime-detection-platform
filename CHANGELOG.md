@@ -56,3 +56,4 @@
 - [2024-11-22] fix: correct risk tier threshold boundaries
 - [2024-11-25] fix: resolve false positive spike in risk scoring
 - [2024-11-26] refactor: improve LangChain agent retry logic
+- [2024-11-28] feat: add velocity feature for cross-border transactions
