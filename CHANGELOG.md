@@ -125,3 +125,4 @@
 - [2025-05-15] docs: update LangGraph investigation workflow docs
 - [2025-05-16] fix: resolve Evidently drift detection config issue
 - [2025-05-16] fix: RAG retriever timeout handling improvement
+- [2025-05-17] fix: correct Kafka consumer offset commit logic
