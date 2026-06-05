@@ -43,3 +43,4 @@
 - [2024-11-07] chore: update Dockerfile base image to python 3.11
 - [2024-11-11] refactor: improve LangChain agent retry logic
 - [2024-11-11] test: add unit tests for fraud detector model
+- [2024-11-13] test: add API integration tests for batch scoring
