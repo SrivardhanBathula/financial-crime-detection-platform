@@ -36,3 +36,4 @@
 - [2024-10-29] fix: resolve false positive spike in risk scoring
 - [2024-10-30] fix: RAG retriever timeout handling improvement
 - [2024-11-03] feat: add velocity feature for cross-border transactions
+- [2024-11-03] fix: handle duplicate transaction IDs in pipeline
