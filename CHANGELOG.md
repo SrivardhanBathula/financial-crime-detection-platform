@@ -104,3 +104,4 @@
 - [2025-03-04] refactor: improve SHAP explanation caching
 - [2025-03-05] refactor: improve LangChain agent retry logic
 - [2025-03-10] fix: resolve false positive spike in risk scoring
+- [2025-03-11] chore: optimize Docker image layer caching
