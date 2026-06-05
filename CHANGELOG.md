@@ -55,3 +55,4 @@
 - [2024-11-21] fix: correct amount z-score calculation edge case
 - [2024-11-22] fix: correct risk tier threshold boundaries
 - [2024-11-25] fix: resolve false positive spike in risk scoring
+- [2024-11-26] refactor: improve LangChain agent retry logic
