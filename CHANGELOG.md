@@ -115,3 +115,4 @@
 - [2025-04-04] fix: handle duplicate transaction IDs in pipeline
 - [2025-04-10] refactor: optimize PySpark feature engineering job
 - [2025-04-11] fix: correct amount z-score calculation edge case
+- [2025-04-14] fix: correct risk tier threshold boundaries
