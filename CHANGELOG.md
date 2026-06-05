@@ -24,3 +24,4 @@
 - [2024-10-16] refactor: improve GNN fraud ring detection accuracy
 - [2024-10-17] fix: RAG retriever timeout handling improvement
 - [2024-10-17] fix: correct risk tier threshold boundaries
+- [2024-10-18] fix: Kubernetes pod memory limit adjustment
