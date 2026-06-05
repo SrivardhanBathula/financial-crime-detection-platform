@@ -51,3 +51,4 @@
 - [2024-11-16] docs: update README with latest benchmark results
 - [2024-11-19] refactor: modularize FastAPI route handlers
 - [2024-11-19] fix: correct amount z-score calculation edge case
+- [2024-11-20] docs: add AML compliance notes to risk scoring
