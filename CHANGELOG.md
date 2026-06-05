@@ -64,3 +64,4 @@
 - [2024-12-18] fix: correct risk tier threshold boundaries
 - [2024-12-19] test: add unit tests for fraud detector model
 - [2024-12-19] fix: resolve false positive spike in risk scoring
+- [2024-12-20] test: add unit tests for fraud detector model
