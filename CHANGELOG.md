@@ -13,3 +13,4 @@
 - [2024-09-28] chore: update XGBoost hyperparameters for production
 - [2024-09-30] refactor: improve SHAP explanation caching
 - [2024-10-02] refactor: improve LangChain agent retry logic
+- [2024-10-04] fix: RAG retriever timeout handling improvement
