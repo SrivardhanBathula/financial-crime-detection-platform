@@ -85,3 +85,4 @@
 - [2025-01-09] fix: correct amount z-score calculation edge case
 - [2025-01-14] chore: bump MLflow tracking server version
 - [2025-01-14] fix: handle duplicate transaction IDs in pipeline
+- [2025-01-15] fix: correct risk tier threshold boundaries
