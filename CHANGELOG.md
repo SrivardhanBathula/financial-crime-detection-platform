@@ -39,3 +39,4 @@
 - [2024-11-03] fix: handle duplicate transaction IDs in pipeline
 - [2024-11-04] fix: resolve Evidently drift detection config issue
 - [2024-11-05] refactor: improve LangChain agent retry logic
+- [2024-11-06] test: add API integration tests for batch scoring
