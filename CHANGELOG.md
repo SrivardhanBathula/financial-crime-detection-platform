@@ -120,3 +120,4 @@
 - [2025-04-15] fix: resolve false positive spike in risk scoring
 - [2025-04-22] fix: RAG retriever timeout handling improvement
 - [2025-04-28] refactor: modularize FastAPI route handlers
+- [2025-05-06] refactor: optimize PySpark feature engineering job
