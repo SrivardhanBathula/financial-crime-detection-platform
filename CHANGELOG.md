@@ -45,3 +45,4 @@
 - [2024-11-11] test: add unit tests for fraud detector model
 - [2024-11-13] test: add API integration tests for batch scoring
 - [2024-11-13] chore: optimize Docker image layer caching
+- [2024-11-14] refactor: optimize Kafka consumer batch processing
