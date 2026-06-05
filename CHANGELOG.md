@@ -12,3 +12,4 @@
 - [2024-09-20] fix: correct Kafka consumer offset commit logic
 - [2024-09-28] chore: update XGBoost hyperparameters for production
 - [2024-09-30] refactor: improve SHAP explanation caching
+- [2024-10-02] refactor: improve LangChain agent retry logic
